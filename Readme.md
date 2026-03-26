@@ -76,6 +76,9 @@ The main physical components of this layout are:
 ---
 ## Output
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c826a2a5-bba0-49ad-aee5-e97a57f704b8" />
+## BLOCK DIAGRAM
+<img width="791" height="415" alt="image" src="https://github.com/user-attachments/assets/41968aa4-0cc0-4860-8ecc-ef0835500915" />
+
 
 ## tabulation
 
